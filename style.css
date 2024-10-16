@@ -1,0 +1,71 @@
+body
+{
+    background-color:ffff;
+    border-color: black;
+
+}
+#main-section
+{
+     border: 1px solid rgb(221, 203, 203);
+    width:500px;
+    height:400px ;
+    margin: 100px auto;
+    background-color:rgb(240, 232, 232);
+    border-radius: 10px;
+    border-color: black;
+
+
+}
+#heading
+{
+    text-align: center;
+    color:#4caf50;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#p,#bill,#p1
+{
+    color:#4caf50;
+   
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
+}
+#i1,#i2
+{ 
+    width: 95%;
+    height: 7%;
+    margin-left: 10px;
+    color: #4caf50;
+
+}
+#cal
+{
+    border-radius:10px ;
+    background-color: #4caf50;
+    width: 95%;
+    height: 8%;
+    margin-left: 10px;
+
+
+  
+
+   
+
+}
+
+ /* input[type="number"], input[type="text"]{
+
+    border-radius: 100px;
+
+    width: 95%;
+    height: 5%;
+
+
+    text-transform: capitalize;
+
+    color: cornflowerblue;
+
+    border-color: darkblue;
+
+    font-family: "Trirong", sans-serif;
+
+ }  */
